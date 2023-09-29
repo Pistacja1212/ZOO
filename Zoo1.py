@@ -5,24 +5,24 @@ class zoo:
         print('Występowanie:',occurance)
         print()
 
-cage1 = zoo(
-    'Pies',
-     'Trawa',
-    'Ameryka Południowa'
-    )
-cage2 = zoo(
-    'Lew',
-     'Mięso',
-    'Afryka'
-    )
-cage3 = zoo(
-    'Panda',
-     'Bambus',
-    'Chiny'
-    )
-cage4 = zoo(
-    'Żyrafa',
-     'Liście',
-    'Afryka'
-    )
+    cage1 = zoo(
+        'Pies',
+        'Trawa',
+        'Ameryka Południowa'
+     )
+    cage2 = zoo(
+        'Lew',
+        'Mięso',
+        'Afryka'
+        )
+    cage3 = zoo(
+        'Panda',
+        'Bambus',
+        'Chiny'
+        )   
+    cage4 = zoo(
+        'Żyrafa',
+        'Liście',
+        'Afryka'
+        )
 
